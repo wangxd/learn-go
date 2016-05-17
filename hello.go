@@ -1,8 +1,8 @@
-/*hello,golang*/
+/*hello,golang,learn go*/
 package main
 
 import "fmt"
 
 func main() {
-	fmt.Println("hello,world")
+	fmt.Println("hello,golang")
 }
